@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "description": "description",
+  "engines": {
+    "node": ">=10"
+  },
+  "main": "pages/index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "init-project":"hygen pwa-init generate"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "hygen": "^5.0.3"
+  },
+  "husky": {
+  },
+  "lint-staged":{
+  }
+}
